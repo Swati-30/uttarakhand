@@ -1,0 +1,51 @@
+.admin-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.chart-container {
+    margin-bottom: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.grievance-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px 0;
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.grievance-card h3 {
+    margin: 0 0 10px;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.grievance-card p {
+    margin: 5px 0;
+    color: #555;
+}
+
+.grievance-card button {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.grievance-card button:hover {
+    background-color: #0056b3;
+}
+
+.no-grievances {
+    text-align: center;
+    color: #666;
+    font-size: 1.2em;
+}

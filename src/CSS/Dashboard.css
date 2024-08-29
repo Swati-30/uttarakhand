@@ -1,0 +1,31 @@
+.dashboard-container {
+    padding: 20px;
+    background-color: #f4f4f4;
+    min-height: 100vh;
+}
+
+.dashboard-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.grievance-list {
+    list-style: none;
+    padding: 0;
+}
+
+.grievance-item {
+    background: white;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.grievance-item h3 {
+    margin-top: 0;
+}
+
+.grievance-item p {
+    margin: 5px 0;
+}
